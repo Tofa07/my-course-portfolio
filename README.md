@@ -5,7 +5,7 @@ Welcome to my academic portfolio for CEP!
 ## About Me
 - Name: Olafusi Tofarati
 - Major: Computer Programming and Analysis
-- Year: 2025
+- Year: Fall 2025
 - Favorite Programming Language: C++
 
 ## Course Goals
@@ -15,4 +15,4 @@ Welcome to my academic portfolio for CEP!
 - [ ] Collaborate on group projects
 
 ## Projects
-*This section will be updated as I complete assignments
+*This section will be updated as I complete assignments*
